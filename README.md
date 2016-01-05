@@ -1,8 +1,10 @@
 # WordSearch
 
+Main concepts explored in this program: Dynamic memory allocation, memory leak prevention, binary search, traversal of 2D Arrays, Strings in C, file input, user input
+
 This is a program that has 2 inputs: a sample dictionary which is a list of words and a sample "puzzle" which is simply 
 a bunch of letters in a 2D Array.  It then goes through the 2D Array horizontally, vertically, and digonally to find
-every single combination of letters including reversed strings.
+every single combination of letters (including reversed strings) that show up in the dictionary.
 
 The specific of the input can be found below.
 
