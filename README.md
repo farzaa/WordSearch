@@ -38,7 +38,7 @@ him
 **The Puzzle:**
 
 
-The first line will have 2 number seperated by a space. The first number will be the height of the puzzle, and then second
+The first line will have 2 numbers seperated by a space. The first number will be the height of the puzzle, and the second
 number will be the width of the puzzle.  The puzzle itself is an assortment of letters. 
 
 **Sample Puzzle:** 
