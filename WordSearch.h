@@ -1,6 +1,7 @@
+//The struct defintions and function layouts below were given by Professor Szumlamnski.
+
 #ifndef __WORD_SEARCH_H
 #define __WORD_SEARCH_H
-
 
 // Maximum length of any word in the dictionary. You should not hard code the
 // number 20 into any of your code. You should instead use the MAX_WORD_LENGTH
